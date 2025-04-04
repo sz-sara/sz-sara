@@ -1,7 +1,7 @@
 ## Oiee 👋
 🌱 Atualmente estou aprendendo noções básicas de programação;
 💬 Tenho interesse na área bancária e desenvolvimento tecnológico;
-👯 Busco colaborar em projetos de baixa complexidade;
+
 
 
 
